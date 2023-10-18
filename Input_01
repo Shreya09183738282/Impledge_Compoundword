@@ -1,0 +1,5 @@
+"C:\Program Files\Java\jdk-14.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.2\lib\idea_rt.jar=50780:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\shrey\Downloads\server\Impledge\out\production\Impledge LongestCompoundWord
+Processing file: Input_01.txt
+Longest compounded word: ratcatdogcat
+Second longest compounded word: catsdogcats
+Time taken to process the input file: 7 milliseconds
